@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "policies-guidelines"
+  },
+  "targets": {
+    "policies-guidelines-pg": {
+      "hosting": {
+        "policies-guidelines": [
+          "policies-guidelines-pg"
+        ]
+      }
+    }
+  }
+}
